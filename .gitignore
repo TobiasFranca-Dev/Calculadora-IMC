@@ -29,6 +29,8 @@
 .pub-cache/
 .pub/
 /build/
+/android/gradle.properties
+/lib/constantes.dart
 
 # Web related
 lib/generated_plugin_registrant.dart

@@ -1,4 +1,4 @@
-package com.example.calculadora_imc
+package com.tfsystem.calculadoraimc
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
